@@ -110,7 +110,7 @@ rocks.DescendantAdded:Connect(function(v)
 end)
 
 local window = lib:CreateWindow({
-	Title = "Obsidian (Oaklands)",
+	Title = "Galaxy Hub (Oaklands)",
 	Center = true,
 	AutoShow = true,
 })
